@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3bc7275-995d-47b7-8f5d-204b28cbc8d3",
+  "export_job_id": "390d2460-abf9-491d-8962-60bffc3c78f1",
   "id_short": 151376,
-  "published_at": "2026-04-17T07:38:36Z",
+  "published_at": "2026-04-21T19:05:09Z",
   "repo_name": "all-restaurants-in-richardson-texas-us-sample-151376",
   "sample_asset_name": "beamstation_151376_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/151376/beamstation_151376_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "c347b1817a317518e0eb73688e4f0401be69f41a288f958e61364b53a7e815b2",
-  "sample_size_bytes": 197619,
-  "total_records": 487
+  "sample_records": 36,
+  "sample_sha256": "a73eedf455fd46a19428211454c7534c106065fb58aa6d9eec47947e7d0f2704",
+  "sample_size_bytes": 152123,
+  "total_records": 367
 }
