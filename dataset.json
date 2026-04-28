@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Richardson, Texas with a population of over 119k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Richardson, Texas, US",
-  "export_job_id": "390d2460-abf9-491d-8962-60bffc3c78f1",
+  "export_job_id": "a483f819-afeb-4181-8e28-498dacff2b79",
   "github_org": "Beamstation-Datasets",
   "id_short": 151376,
   "location_name": "Richardson",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-richardson-texas-us-sample-151376",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/151376/beamstation_151376_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.81,
-  "sample_records": 36,
-  "sample_sha256": "a73eedf455fd46a19428211454c7534c106065fb58aa6d9eec47947e7d0f2704",
-  "sample_size_bytes": 152123,
-  "total_records": 367,
-  "updated_at": "2026-04-21T10:33:01.174521+00:00"
+  "sample_records": 47,
+  "sample_sha256": "343435d03309500fb1f165894dbbe00e0ed594aefb9701efea6f4247f7bdb7ab",
+  "sample_size_bytes": 180334,
+  "total_records": 479,
+  "updated_at": "2026-04-28T11:02:13.609608+00:00"
 }
