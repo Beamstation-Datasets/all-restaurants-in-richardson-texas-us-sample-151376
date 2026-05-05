@@ -1,6 +1,6 @@
 # All Restaurants in Richardson, Texas, US
 
-> Free BeamStation sample export with 47 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `151376` |
 | Location | Richardson |
 | Category | Restaurants |
-| Full dataset size | 479 records |
-| Free sample size | 47 records (9.81%) |
-| Last export | 2026-04-28T11:02:13.609608+00:00 |
+| Full dataset size | 518 records |
+| Free sample size | 51 records (9.85%) |
+| Last export | 2026-05-05T13:15:03.086990+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-richardson-texas-us-sample-151376/releases/download/sample-latest/beamstation_151376_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
